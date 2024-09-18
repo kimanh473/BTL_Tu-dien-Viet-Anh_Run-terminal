@@ -1,0 +1,6 @@
+Link tải từ điển "TuDien_VietAnh23460.txt":
+https://github.com/phamminhngocha/BigData/blob/4790e0579a9ae138fc3519cacba39c643ceab7f1/TuDien_VietAnh23460.txt
+
+B1: Tải file từ điển từ link
+B2: Chạy file convert_to_INI.py để convert file txt sang ini
+B3: Chạy file dictionary_VIEtoENG_program.py trên terminal
